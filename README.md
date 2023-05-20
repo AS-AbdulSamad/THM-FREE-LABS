@@ -1,5 +1,5 @@
 # THM-FREE-LABS
-![image](https://github.com/AS-AbdulSamad/THM-FREE-LABS/assets/116205223/20676fb5-2a43-4995-8443-28f36de2216d)
+![image](https://github.com/AS-AbdulSamad/THM-FREE-LABS/assets/116205223/a61f7205-2cbc-4881-b732-9a0e4e5ae41e)
 
 This repository aims to provide a comprehensive list of free labs available on TryHackMe
 
