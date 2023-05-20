@@ -1,4 +1,6 @@
 # THM-FREE-LABS
+![image](https://github.com/AS-AbdulSamad/THM-FREE-LABS/assets/116205223/20676fb5-2a43-4995-8443-28f36de2216d)
+
 This repository aims to provide a comprehensive list of free labs available on TryHackMe
 
 Welcome to the TryHackMe Free Labs Repository! This repository aims to provide a comprehensive list of free labs available on TryHackMe, an online platform for learning and practicing cybersecurity skills through hands-on virtual environments.
