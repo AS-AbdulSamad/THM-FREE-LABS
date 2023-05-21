@@ -22,7 +22,6 @@ Note: This repository is maintained by the community and is not affiliated with 
 https://tryhackme.com/room/hello
 <br/>https://tryhackme.com/room/howtousetryhackme
 <br/>https://tryhackme.com/room/gettingstarted
-<br/>https://tryhackme.com/room/welcome
 <br/>https://tryhackme.com/room/tutorial
 <br/>https://tryhackme.com/room/openvpn
 <br/>https://tryhackme.com/room/beginnerpathintro
